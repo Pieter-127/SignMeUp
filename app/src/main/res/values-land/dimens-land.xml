@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="input_component_height">36dp</dimen>
+    <dimen name="subheading_margin_top">12dp</dimen>
+    <dimen name="input_component_margins_start">24dp</dimen>
+    <dimen name="input_component_margin_end">24dp</dimen>
+    <dimen name="main_container_width">350dp</dimen>
+    <dimen name="main_container_height">530dp</dimen>
+    <dimen name="title_text_size">24sp</dimen>
+    <dimen name="button_height">48dp</dimen>
+    <dimen name="existing_account_margin_top">6dp</dimen>
+    <dimen name="terms_and_conditions_agreement_height">32dp</dimen>
+</resources>
